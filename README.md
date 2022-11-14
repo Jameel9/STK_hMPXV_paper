@@ -1,2 +1,2 @@
 # STK_hMPXV_paper
-AlphaFold2 results.
+Secondary structure predictions from AlphaFold2, RoseTTAFold, and trRosetta.
